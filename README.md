@@ -2,7 +2,7 @@
 Beast71421/Beast71421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Ankur!](https://linkfree.eddiehub.io/Beast71421) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Ankur!](https://linkfree.eddiehub.io/Ankurrawat-12) 
 
 A Fullstack Webdeveloper and Open source enthusiast from India :india:
 
@@ -32,8 +32,8 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-  <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Beast71421.Beast71421&left_color=grey&right_color=blue) -->
-  ![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beast71421&show_icons=true&theme=tokyonight)
-  ![Ankurs's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Beast71421&show_icons=true&locale=en&layout=compact&theme=onedark)
+  <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ankurrawat-12.Ankurrawat-12&left_color=grey&right_color=blue) -->
+  ![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankurrawat-12&show_icons=true&theme=tokyonight)
+  ![Ankurs's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ankurrawat-12&show_icons=true&locale=en&layout=compact&theme=onedark)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Beast71421&theme=vue-dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
