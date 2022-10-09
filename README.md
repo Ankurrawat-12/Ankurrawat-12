@@ -36,4 +36,4 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
   ![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankurrawat-12&show_icons=true&theme=tokyonight)
   ![Ankurs's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ankurrawat-12&show_icons=true&locale=en&layout=compact&theme=onedark)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Beast71421&theme=vue-dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ankurrawat-12&theme=vue-dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
