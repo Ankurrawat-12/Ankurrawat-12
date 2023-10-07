@@ -42,4 +42,5 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
 </p>
 
 ## Badges
-[![@ankurrawat12's Holopin board](https://holopin.me/ankurrawat12)](https://holopin.io/@ankurrawat12)
+[![An image of @ankurrawat12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankurrawat12)](https://holopin.io/@ankurrawat12)
+
