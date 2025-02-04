@@ -32,13 +32,12 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ankurrawat-12.Ankurrawat-12&left_color=grey&right_color=blue)
-    ![Ankurs's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ankurrawat-12&show_icons=true&locale=en&layout=compact&theme=onedark)
+  ![Ankurs's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ankurrawat-12&show_icons=true&locale=en&layout=compact&theme=onedark)
 
   ![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankurrawat-12&show_icons=true&theme=tokyonight)
   
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankurrawat-12)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankurrawat-12)](https://git.io/streak-stats)
  
   ![Snake animation](https://github.com/Ankurrawat-12/Ankurrawat-12/blob/output/github-contribution-grid-snake.svg)
 
