@@ -34,12 +34,29 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
 
   <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ankurrawat-12.Ankurrawat-12&left_color=grey&right_color=blue) -->
   ![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankurrawat-12&show_icons=true&theme=tokyonight)
+  
   ![Ankurs's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ankurrawat-12&show_icons=true&locale=en&layout=compact&theme=onedark)
   
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankurrawat-12)](https://git.io/streak-stats)
-<p align="center">
-  <img src="https://github.com/Ankurrawat-12/Ankurrawat-12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+- uses: Ankurrawat-12/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 ## Badges
 [![An image of @ankurrawat12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankurrawat12)](https://holopin.io/@ankurrawat12)
