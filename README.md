@@ -39,11 +39,9 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
   
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankurrawat-12)](https://git.io/streak-stats)
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankurrawat-12/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ## Badges
 [![An image of @ankurrawat12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankurrawat12)](https://holopin.io/@ankurrawat12)
