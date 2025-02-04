@@ -40,7 +40,7 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankurrawat-12)](https://git.io/streak-stats)
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ankurrawat-12/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Ankurrawat-12/Ankurrawat-12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 ## Badges
