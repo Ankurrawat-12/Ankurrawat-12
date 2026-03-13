@@ -1,46 +1,106 @@
-<!---
-Beast71421/Beast71421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Ankur!](https://linkfree.eddiehub.io/Ankurrawat-12) 
 
-A Fullstack Webdeveloper and Open source enthusiast from India :india:
-
-## Socials:
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ankurrawat816)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-rawat-180999203/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_ankur._.rawat_/?hl=en) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurrawat620@gmail.com)
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+ <h1>🌟 Hey There! I'm Ankur Rawat 👨‍💻🚀
+</h1> 
+<h4>📌 About Me  </h4>
 
 
-- Most used line of code  `nodeman server.js`
-- 📫 How to reach me: ankurrawat620@gmail.com.
-- 😄 Pronouns: He/His
+```
+🧠 AI Innovator | 💻 Full-Stack Developer | 🌐 Tech Enthusiast
+Transforming ideas into intelligent solutions, one algorithm at a time!
+```
 
-## Languages and Tools:
+### 🔬 Tech Arsenal
 
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-<!--- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)--->
-- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### 💻 Languages
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,dart,r,julia" />
+</p>
+
+#### 🤖 AI & Machine Learning
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pytorch" />
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
+
+### 🛠 Development Ecosystem
+
+#### 🌐 Web Technologies
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,django" />
+</p>
+
+#### 🗃 Databases
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+</p>
+
+### 🚀 Cloud & DevOps
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,firebase,heroku,docker,git,github" />
+</p>
+
+### 📊 GitHub Analytics
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankurrawat-12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankurrawat-12&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ankurrawat-12&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+### 🔥 Stats
+
+[![Ankur's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankurrawat-12&theme=radical&hide_border=true)
 
 
-  ![Ankurs's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ankurrawat-12&show_icons=true&locale=en&layout=compact&theme=onedark)
 
-  ![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankurrawat-12&show_icons=true&theme=tokyonight)
-  
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankurrawat-12)](https://git.io/streak-stats)
- 
-  ![Snake animation](https://github.com/Ankurrawat-12/Ankurrawat-12/blob/output/github-contribution-grid-snake.svg)
+### 🌐 Connect With Me
+<p align="center">
+    <a href="https://www.linkedin.com/in/ankurrawat12/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:ankurrawat620@gmail.com" target="_blank">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/ankur._.rawat" target="_blank">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+</p>
 
-## Badges
-[![An image of @ankurrawat12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankurrawat12)](https://holopin.io/@ankurrawat12)
+### 💡 Quick Facts
+- 🔭 Currently working on AI-driven solutions
+- 🌱 Constantly learning and exploring new technologies
+- 💬 Ask me about AI, Machine Learning, and Full-Stack Development
 
+
+### 🎨 Profile Views
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Ankurrawat-12&label=Profile%20views&color=0e75b6&style=flat" alt="Ankurrawat-12" /> 
+</p>
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ankurrawat-12/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ankurrawat-12/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Ankurrawat-12/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
