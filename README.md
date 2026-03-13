@@ -50,10 +50,11 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 </p>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ankurrawat-12)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ankurrawat-12&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ### 🔥 Stats
-
 [![Ankur's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankurrawat-12&theme=radical&hide_border=true)
 
 
