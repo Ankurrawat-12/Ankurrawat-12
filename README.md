@@ -58,7 +58,7 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 ### 🔥 Stats
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankurrawat-12&theme=radical&hide_border=true />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankurrawat-12&theme=radical&hide_border=true" />
 </p>
 
 
