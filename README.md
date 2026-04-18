@@ -50,7 +50,7 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 </p>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Ankurrawat-12)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=ankurrawat-12)]
 
 
 ### 🔥 Stats
