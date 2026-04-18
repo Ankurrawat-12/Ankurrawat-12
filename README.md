@@ -56,7 +56,7 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 
 
 ### 🔥 Stats
-[![Ankur's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankurrawat-12&theme=radical&hide_border=true)
+![Ankur's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankurrawat-12&theme=radical&hide_border=true)
 
 
 
@@ -68,7 +68,7 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
     <a href="mailto:ankurrawat620@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/ankur._.rawat" target="_blank">
+    <a href="https://www.instagram.com/_ankur._.rawat_" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </p>
