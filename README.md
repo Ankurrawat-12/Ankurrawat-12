@@ -56,7 +56,10 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 
 
 ### 🔥 Stats
-![Ankur's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankurrawat-12&theme=radical&hide_border=true)
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankurrawat-12&theme=radical&hide_border=true />
+</p>
 
 
 
