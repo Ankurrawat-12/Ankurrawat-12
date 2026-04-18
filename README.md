@@ -51,7 +51,7 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 
 ### 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ankurrawat-12&theme=tokyonight&no-frame=true&row=1&column=7" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Ankurrawat-12&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ### 🔥 Stats
